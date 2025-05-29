@@ -196,12 +196,20 @@
 				"D:/DoAN/PaperZDGame/Content/PaperAssets/Attacks/Sword/Captain__Sword_Spinning.uasset",
 				"D:/DoAN/PaperZDGame/Content/PaperAssets/Attacks/Sword/Captain__Sword_Embedded.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_ActionChar.uasset",
-				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/BP_Caption.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/BP_Shark.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/GM_Action.uasset",
 				"D:/DoAN/PaperZDGame/Content/input/Actions/IA_Move.uasset",
-				"D:/DoAN/PaperZDGame/Content/input/IMC_Action.uasset"
+				"D:/DoAN/PaperZDGame/Content/input/IMC_Action.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Idle.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/JumpRise.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Run.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Fall.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AS_Caption.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Attack.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Throw.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/ABP_Caption.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset"
 			]
 		}
 	]

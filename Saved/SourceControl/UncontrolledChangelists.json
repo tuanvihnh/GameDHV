@@ -212,6 +212,8 @@
 				"D:/DoAN/PaperZDGame/Content/Blueprint/NotfyStates/ANS_Attack.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Stun.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Defeated.uasset",
+				"D:/DoAN/PaperZDGame/Content/Sounds/S_Throw_Cue.uasset",
+				"D:/DoAN/PaperZDGame/Content/Sounds/S_Hit_Cue.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset"
 			]
 		}

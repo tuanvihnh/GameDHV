@@ -199,7 +199,9 @@
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/BP_Caption.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/BP_Shark.uasset",
-				"D:/DoAN/PaperZDGame/Content/Blueprint/GM_Action.uasset"
+				"D:/DoAN/PaperZDGame/Content/Blueprint/GM_Action.uasset",
+				"D:/DoAN/PaperZDGame/Content/input/Actions/IA_Move.uasset",
+				"D:/DoAN/PaperZDGame/Content/input/IMC_Action.uasset"
 			]
 		}
 	]

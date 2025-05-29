@@ -191,7 +191,15 @@
 				"D:/DoAN/PaperZDGame/Content/PaperAssets/environment/shop_anim.uasset",
 				"D:/DoAN/PaperZDGame/Content/PaperAssets/environment/sign.uasset",
 				"D:/DoAN/PaperZDGame/Content/Sounds/S_Hit.uasset",
-				"D:/DoAN/PaperZDGame/Content/Sounds/S_Throw.uasset"
+				"D:/DoAN/PaperZDGame/Content/Sounds/S_Throw.uasset",
+				"D:/DoAN/PaperZDGame/Content/PaperAssets/Attacks/Sword/Captain__Sword_Idle.uasset",
+				"D:/DoAN/PaperZDGame/Content/PaperAssets/Attacks/Sword/Captain__Sword_Spinning.uasset",
+				"D:/DoAN/PaperZDGame/Content/PaperAssets/Attacks/Sword/Captain__Sword_Embedded.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_ActionChar.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/BP_Caption.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/BP_Shark.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/GM_Action.uasset"
 			]
 		}
 	]

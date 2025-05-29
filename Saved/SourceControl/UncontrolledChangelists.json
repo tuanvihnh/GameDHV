@@ -221,6 +221,9 @@
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AnimSequences/Stun.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AS_Shark.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/ABP_Shark.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/AI/BB_Enemy.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/AI/AIC_Enemy.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/AI/BT_Enemy.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset"
 			]
 		}

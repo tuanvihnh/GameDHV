@@ -214,6 +214,13 @@
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/caption/AnimSequences/Defeated.uasset",
 				"D:/DoAN/PaperZDGame/Content/Sounds/S_Throw_Cue.uasset",
 				"D:/DoAN/PaperZDGame/Content/Sounds/S_Hit_Cue.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AnimSequences/Attack.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AnimSequences/Defeated.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AnimSequences/Idle.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AnimSequences/Run.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AnimSequences/Stun.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/AS_Shark.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/Shark/ABP_Shark.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset"
 			]
 		}

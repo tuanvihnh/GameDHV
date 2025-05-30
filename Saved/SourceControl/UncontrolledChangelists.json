@@ -224,6 +224,7 @@
 				"D:/DoAN/PaperZDGame/Content/Blueprint/AI/BB_Enemy.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/AI/AIC_Enemy.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/AI/BT_Enemy.uasset",
+				"D:/DoAN/PaperZDGame/Content/Blueprint/AI/Tasks/BTT_TryAttack.uasset",
 				"D:/DoAN/PaperZDGame/Content/Blueprint/Character/BP_Caption.uasset"
 			]
 		}
